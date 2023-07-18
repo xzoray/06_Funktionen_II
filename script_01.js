@@ -17,6 +17,11 @@ function addition(a, b) {
 	return a + b;
 }
 
+// module: subtraction a - b |  test:
+// output(subtraction(a, b));
+function subtraction(a, b) {
+	return a - b;	
+}
 
 
 // module: output | test:
