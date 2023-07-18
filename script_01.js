@@ -32,7 +32,11 @@ function multiplication(a, b) {
 // module: division a / b |  test
 // output(division(a, b));
 function division(a, b) {
-	return a / b;
+	if (b != 0) {
+		return a/b;
+	} else {
+		return "Division durch 0 nicht möglich!";
+	}
 }
 
 // module: output | test:
