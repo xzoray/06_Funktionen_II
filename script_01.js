@@ -11,7 +11,11 @@
 4. Ausgabe in Konsole : Check!
 */
 
-
+// module: addition a + b |  test:
+// output(addition(a, b));
+function addition(a, b) {
+	return a + b;
+}
 
 
 
