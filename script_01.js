@@ -23,6 +23,14 @@ function subtraction(a, b) {
 	return a - b;	
 }
 
+// module: multiplication a * b |  test:
+// output(multiplication(a, b));
+function multiplication(a, b) {
+	return a * b;
+}
+
+
+
 
 // module: output | test:
 // output("hello");
