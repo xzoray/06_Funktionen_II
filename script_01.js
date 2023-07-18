@@ -29,8 +29,11 @@ function multiplication(a, b) {
 	return a * b;
 }
 
-
-
+// module: division a / b |  test
+// output(division(a, b));
+function division(a, b) {
+	return a / b;
+}
 
 // module: output | test:
 // output("hello");
